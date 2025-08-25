@@ -1,0 +1,5 @@
+FOR
+NVIDA 1050 4GB:
+ANTI HACKER
+EXEC cmd
+mine_etc+zil.bat
